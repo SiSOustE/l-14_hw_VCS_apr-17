@@ -1,12 +1,19 @@
 Первая работа с VSCode и git
 https://www.youtube.com/watch?v=L_ZF4ZbO_VI&t=1165s
 
+Help
+$ git help <команда>
+$ git <команда> --help
+$ man git-<команда>
+
+Git
 git init
 m  modified
 git config --global init.defaultBranch main
 
 https://github.com/new  создать репозиторий
 
+VSCode
 ctr  enter    откат
 ctr  g	      navigate - line N
 F2	          автозамена (replace)
