@@ -10,6 +10,9 @@ Git
 git init
 m  modified
 git config --global init.defaultBranch main
+git add
+git commit -m "2339"
+git push
 
 https://github.com/new  создать репозиторий
 
@@ -17,3 +20,5 @@ VSCode
 ctr  enter    откат
 ctr  g	      navigate - line N
 F2	          автозамена (replace)
+
+Updated 21-1709
