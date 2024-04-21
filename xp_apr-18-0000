@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=L_ZF4ZbO_VI&t=1165s
 
 git init
 m  modified
+git config --global init.defaultBranch main
 
 https://github.com/new  создать репозиторий
 
