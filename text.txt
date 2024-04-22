@@ -3,4 +3,6 @@ PowerShell
 Создать  
   ni        файл
   mkdir     каталог
-  
+  cls
+  ls
+  pwd
