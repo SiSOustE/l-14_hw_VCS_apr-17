@@ -1,0 +1,6 @@
+PowerShell
+
+Создать  
+  ni        файл
+  mkdir     каталог
+  
